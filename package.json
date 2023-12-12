@@ -1,0 +1,24 @@
+{
+	"name": "zras",
+	"version": "0.0.0",
+	"description": "CLI image assets folder generator.",
+	"main": "zras.js",
+	"type": "module",
+	"bin": "zras.js",
+	"repository": {
+		"url": "https://github.com/ZRNOF/zras"
+	},
+	"keywords": [
+		"image",
+		"image processing",
+		"assets",
+		"cli",
+		"template",
+		"generator"
+	],
+	"author": "Zaron Chen",
+	"license": "MIT",
+	"dependencies": {
+		"commander": "^11.1.0"
+	}
+}
