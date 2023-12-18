@@ -16,6 +16,12 @@ Run `zras` with the desired folder name (default is `assets`):
 zras [folderName]
 ```
 
+To update `zras` to the latest version, use the following command:
+
+```bash
+npm update -g zras
+```
+
 Alternatively, you can use `npx` to run `zras` without installing it globally:
 
 ```bash
