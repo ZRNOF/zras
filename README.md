@@ -1,5 +1,7 @@
 # zras
 
+[![NPM Package][npm]][npm-url]
+
 CLI image assets folder generator.
 
 ## Usage
@@ -39,3 +41,7 @@ Please refer to [the MIT license](https://github.com/ZRNOF/zras/blob/main/LICENS
 ### Image
 
 Please refer to [Image Source](https://github.com/ZRNOF/zras/blob/main/assets/README.md) for detailed licensing and source information.
+
+
+[npm]: https://img.shields.io/npm/v/zras
+[npm-url]: https://www.npmjs.com/package/zras
